@@ -1,0 +1,94 @@
+orm{
+    background-color: rgb(28, 91, 121);  
+  }
+  h3{
+      color:white;
+      font-weight: 700;
+  }
+  label{
+      color:rgb(142, 205, 226);
+      font-size: 21px;
+      margin:7px;
+  }
+  
+  .margin{
+      margin-left:25%;
+      margin-right:20%;
+      margin-top: 3%;
+      margin-bottom:10%;
+  }
+  
+  
+  
+  input{
+      background-color:white;
+      border:grey;
+      box-shadow: inset 0px 0px 0px 0px #ddd;
+  
+  
+  }
+  
+  button{
+      margin-top: 2%;
+      margin-right:20%;
+  }
+  
+  
+  .padding{
+      padding-left:20%;
+      padding-right:40%;
+      padding-top:10%;
+      padding-bottom:30%;
+      background-color:   rgb(28, 91, 121);
+      box-shadow: 12px 12px 12px 0px #ddd;
+  
+  }
+  
+  .form-group{
+      width:60%;
+      height:12%;
+  }
+  .form-group1{
+      width:80%;    
+  }
+  .btn{
+      background-color:rgb(216, 211, 211);
+      color: rgb(28, 91, 121);
+      font-weight:600;
+  }
+  
+  .btn:hover{
+      color: rgb(28, 91, 121);
+      background-color:rgb(233, 230, 230);
+      
+      font-weight:600;
+  }
+  .btn:focus{
+      color: rgb(28, 91, 121);
+      background-color:(233, 230, 230);
+      font-weight:600;
+  } 
+  
+  .expense-details{
+      margin-top: 2%;
+  }
+  .account{
+      margin-top:2%;
+  }
+  .table-margin{
+      margin-top:4%;
+  }
+  .c{
+      background-color:rgb(216, 211, 211);
+      color: rgb(28, 91, 121);
+      font-weight:600;
+  }
+  
+  
+  
+  
+  .form-group2{
+      border:4px;
+      border-color:grey;
+      
+  }
